@@ -898,3 +898,14 @@ console.log(`Auto-Reconnect: ${config.utils['auto-reconnect'] ? 'Enabled' : 'Dis
 console.log('='.repeat(50));
 
 createBot();
+const mineflayer = require('mineflayer');
+
+const (Movements, pathfinder, goals } = require('mineflayer-pathfir
+
+const (GoalBlock ) = goals;
+
+const config = require('./settings.json');
+
+const express = require('express');
+
+const http = require('http');
